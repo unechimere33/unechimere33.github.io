@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Leaves watercolor e1."
+title:  "Leaves watercolor e1"
 permalink: /leaves-watercolor-e1/
 ---
 
-# Welcome
+# Leaves Watercolor
 
 This is an exercise for watercolor - leaves 
 
