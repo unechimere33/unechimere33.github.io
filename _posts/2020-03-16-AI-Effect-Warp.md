@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adobe Illustrator Warp Effect"
+title:  "Adobe Illustrator- Warp Effect"
 permalink: /AI-effect-warp/
 date: 2020-03-16
 categories: [Adobe Illustrator Skills]
