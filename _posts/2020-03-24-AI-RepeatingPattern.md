@@ -58,7 +58,7 @@ image-sm: /assets/AIMaskPattern.jpg
 
 <br />
 ### 參考網站  
-https://www.spoonflower.com/
+<https://www.spoonflower.com/>
 <br />
 ### 參考書  
 The Crafter’s Guide to Patterns, Jessica Swift.
