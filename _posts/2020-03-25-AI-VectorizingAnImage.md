@@ -5,7 +5,7 @@ permalink: /AI-VectorizingAnImage/
 date: 2020-03-25
 categories: [Adobe Illustrator Skills]
 image: /assets/AIVectorizingAnImage03.png
-image-sm: /assets/AIVectorizingAnImage03.png
+image-sm: /assets/AIVectorizingAnImageP03.png
 ---
 <br />
 <br />
@@ -26,9 +26,11 @@ image-sm: /assets/AIVectorizingAnImage03.png
 + 檔案極小，適合於網路上傳遞。
 + 無法記錄複雜的色彩資料。適合處理色彩變化較少的卡通圖案。
 <br />
-*<https://vector-conversions.com/vectorizing/raster_vs_vector.html>*
 <br />
-向量圖比點陣圖的優越之處有：
+向量vs點陣 *<https://vector-conversions.com/vectorizing/raster_vs_vector.html>*
+<br />
+向量圖比點陣圖的優越之處
+*<https://zh.wikipedia.org/wiki/%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2>*
 <br />
 <br />
 <br />
@@ -42,8 +44,12 @@ image-sm: /assets/AIVectorizingAnImage03.png
 <br />
 *可先使用Photoshop來改變影像的對比度等，再使用Illustrator來描出向量形狀和線條。*
 <br />
-1. 置入影像 檔案File/ 置入Place
-2. 右側內容 快速動作Quick Actions/ 影像描圖Image Trace/ 三色Three Tone  
+1. 使用Illustrator 置入影像 檔案File/ 置入Place
+2. 內容 快速動作Quick Actions/ 影像描圖Image Trace/ 三色Three Tone 或
+2. 點擊影像 > 上方工具列/ 影像描圖Image Trace/ 3色Three Tone（6色/ 16色...）
+<br />
+<br />
+#### > 轉換向量圖所需時間較長
 <br />
 ### Original
 ![G01](/assets/AIVectorizingAnImage01.png)  
@@ -51,9 +57,38 @@ image-sm: /assets/AIVectorizingAnImage03.png
 ![G02](/assets/AIVectorizingAnImage02.png)
 <br />
 3. 調整各項數值按> 展開Expand *圖像呈區塊狀，可任意編輯*
-4. 點選欲編輯之區塊 選取Select/ 相同Same/ 填入顏色Fill Color  
+4. 使用白箭（直接選取工具）選取區塊編輯 選取Select/ 相同Same/ 填入顏色Fill Color  
 <br />
 ### Coloring...
 ![G03](/assets/AIVectorizingAnImage03.png)
 <br />
+# 人像 Portrait
+## 製作趣味肖像圖
+1\. 使用Photoshop調整照片對比度  
+2\. 開啟舊檔  
+3\. 點擊影像 > 上方工具列/ 影像描圖Image Trace/ 3色Three Tone（6色/ 16色...）
+![G04](/assets/AIVectorizingAnImageP02.png)
+![G05](/assets/AIVectorizingAnImageP03.png)
 <br />
+<br />
+4\. 調整各項數值按> 展開Expand *圖像呈區塊狀，可任意編輯*
+![G06](/assets/AIVectorizingAnImageP04.png)
+5\. 使用白箭（直接選取工具）選取區塊編輯 選取Select/ 相同Same/ 填入顏色Fill Color  
+![G07](/assets/AIVectorizingAnImageP05.png)
+![G08](/assets/AIVectorizingAnImageP06.png)
+<br />
+## 無背景多層肖像圖
+## Portrait without background
+1\. 使用Photoshop 將影像調整為黑白 做人像遮色片存psd檔  
+2\. 使用Illustrator 置入影像 檔案File/ 置入Place/ 影像描圖Image Trace/黑白Black and White  
+3\. 調整『影像描圖』各項數值後> 展開Expand  
+4\. （欲先將影像之白色背景去除）解散群組Ungroup將白匡區域刪除  
+5\. 全選其黑色區域 組成群組Group /複製Copy（製作多層人像）  
+6\. 第一層人像 > 選取Select/ 相同Same/ 填入顏色Fill Color  
+7\. 第二層人像 > 貼上複製圖（步驟5）> 填色（如步驟6）  
+8\. 第三層人像 > 貼上複製圖（步驟5）> 調整三層位置  
+<br />
+<br />
+## 其他製作方法
+## Make a minimal vector portrait
+*<https://helpx.adobe.com/tw/illustrator/how-to/minimum-vector-portrait.html>*
