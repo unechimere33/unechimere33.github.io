@@ -86,7 +86,9 @@ image-sm: /assets/AIRedrawingLogo0103.png
 3. 鋼筆工具Pen Tool 畫出K鏤空處
 4. 用直接選取工具White Arrow調整3位置 （command + Y 輔助）並利用右側工具對齊Align邊角
 5. 形狀建立工具Shape Build Tool 按Option Key刪除欲鏤空處圖形3
- 6\. 7\. 同  
- <br />
+6\. 7\. 同  
+<br />
 Next > Adobe Illustrator- Redrawing Logo Part 2
- <br />
+<br />
+<br />
+<br />
