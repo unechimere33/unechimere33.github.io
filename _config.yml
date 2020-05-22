@@ -1,21 +1,20 @@
 # Site/SEO settings
-email:
+email:unechimere33@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
 title: Yunjie Chen
 description:
 url: "https://yunjiechen.com"
-baseurl: ""
-twitter_username:
+baseurl: "https://yunjiechen.com"
+twitter_username: chimelodie
 default_img:
 
 # Profile settings
-name:
-profile_img:
+name: Yunjie Chen
+profile_img: 
 profile:
 social:
-  github:
 
 # Build settings
 markdown: kramdown
