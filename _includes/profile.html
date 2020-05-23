@@ -1,0 +1,29 @@
+<section class="profile">
+  <div class="profile__card">
+    <div class="profile__img">
+      <figure class="absolute-bg" style="background-image: url('/assets/MAKEUP_20180521143729_save.jpg');"></figure>
+    </div>
+    <div class="profile__container">
+      <p>Yunjie Chen (Mélodie) was born in Taiwan.
+        <br>
+        She speaks Mandarin, French, English and Japanese. She sometimes paints, now she is a graphic and UI designer.
+        <br>
+        <br>
+        “The cure for boredom is curiosity. There is no cure for curiosity.”
+        <br>
+        <br>
+         Dorothy Parker
+      </p>
+      {% if site.email or site.social %}
+        <ul class="profile__social">
+          {% if site.email %}
+            <li><a class="fa fa-lg fa-envelope-o" href="mailto:unechimere33@gmail.com"></a></li>
+          {% endif %}
+          {% for social in site.social %}
+            <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  </div>
+</section>
