@@ -1,5 +1,5 @@
 # Site/SEO settings
-email:unechimere33@gmail.com
+email: unechimere33@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
@@ -12,7 +12,7 @@ default_img:
 
 # Profile settings
 name: Yunjie Chen
-profile_img: 
+profile_img:
 profile:
 social:
 
